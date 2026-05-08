@@ -1,0 +1,7 @@
+E:\ESTUDO C#\Conversao de tipo\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.exe.config
+E:\ESTUDO C#\Conversao de tipo\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.exe
+E:\ESTUDO C#\Conversao de tipo\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.pdb
+E:\ESTUDO C#\Conversao de tipo\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.csproj.AssemblyReference.cache
+E:\ESTUDO C#\Conversao de tipo\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\Conversao de tipo\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.exe
+E:\ESTUDO C#\Conversao de tipo\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.pdb

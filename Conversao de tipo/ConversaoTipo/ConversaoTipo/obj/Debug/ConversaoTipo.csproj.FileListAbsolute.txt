@@ -1,0 +1,7 @@
+E:\ESTUDO C#\Conversao de tipo\ConversaoTipo\ConversaoTipo\bin\Debug\ConversaoTipo.exe.config
+E:\ESTUDO C#\Conversao de tipo\ConversaoTipo\ConversaoTipo\bin\Debug\ConversaoTipo.exe
+E:\ESTUDO C#\Conversao de tipo\ConversaoTipo\ConversaoTipo\bin\Debug\ConversaoTipo.pdb
+E:\ESTUDO C#\Conversao de tipo\ConversaoTipo\ConversaoTipo\obj\Debug\ConversaoTipo.csproj.AssemblyReference.cache
+E:\ESTUDO C#\Conversao de tipo\ConversaoTipo\ConversaoTipo\obj\Debug\ConversaoTipo.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\Conversao de tipo\ConversaoTipo\ConversaoTipo\obj\Debug\ConversaoTipo.exe
+E:\ESTUDO C#\Conversao de tipo\ConversaoTipo\ConversaoTipo\obj\Debug\ConversaoTipo.pdb

@@ -1,0 +1,7 @@
+E:\ESTUDO C#\Operadores Logicos\Operadores Logicos\bin\Debug\Operadores Logicos.exe.config
+E:\ESTUDO C#\Operadores Logicos\Operadores Logicos\bin\Debug\Operadores Logicos.exe
+E:\ESTUDO C#\Operadores Logicos\Operadores Logicos\bin\Debug\Operadores Logicos.pdb
+E:\ESTUDO C#\Operadores Logicos\Operadores Logicos\obj\Debug\Operadores Logicos.csproj.AssemblyReference.cache
+E:\ESTUDO C#\Operadores Logicos\Operadores Logicos\obj\Debug\Operadores Logicos.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\Operadores Logicos\Operadores Logicos\obj\Debug\Operadores Logicos.exe
+E:\ESTUDO C#\Operadores Logicos\Operadores Logicos\obj\Debug\Operadores Logicos.pdb

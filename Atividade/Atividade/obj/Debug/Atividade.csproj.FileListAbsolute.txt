@@ -1,0 +1,7 @@
+E:\ESTUDO C#\Atividade\Atividade\obj\Debug\Atividade.csproj.AssemblyReference.cache
+E:\ESTUDO C#\Atividade\Atividade\obj\Debug\Atividade.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\Atividade\Atividade\bin\Debug\Atividade.exe.config
+E:\ESTUDO C#\Atividade\Atividade\bin\Debug\Atividade.exe
+E:\ESTUDO C#\Atividade\Atividade\bin\Debug\Atividade.pdb
+E:\ESTUDO C#\Atividade\Atividade\obj\Debug\Atividade.exe
+E:\ESTUDO C#\Atividade\Atividade\obj\Debug\Atividade.pdb

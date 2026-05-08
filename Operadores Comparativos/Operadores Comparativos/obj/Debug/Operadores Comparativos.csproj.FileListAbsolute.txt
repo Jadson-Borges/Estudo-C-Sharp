@@ -1,0 +1,7 @@
+E:\ESTUDO C#\Operadores Comparativos\Operadores Comparativos\bin\Debug\Operadores Comparativos.exe.config
+E:\ESTUDO C#\Operadores Comparativos\Operadores Comparativos\bin\Debug\Operadores Comparativos.exe
+E:\ESTUDO C#\Operadores Comparativos\Operadores Comparativos\bin\Debug\Operadores Comparativos.pdb
+E:\ESTUDO C#\Operadores Comparativos\Operadores Comparativos\obj\Debug\Operadores Comparativos.csproj.AssemblyReference.cache
+E:\ESTUDO C#\Operadores Comparativos\Operadores Comparativos\obj\Debug\Operadores Comparativos.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\Operadores Comparativos\Operadores Comparativos\obj\Debug\Operadores Comparativos.exe
+E:\ESTUDO C#\Operadores Comparativos\Operadores Comparativos\obj\Debug\Operadores Comparativos.pdb
