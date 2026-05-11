@@ -1,0 +1,7 @@
+E:\ESTUDO C#\FUNÇÕES\SINTAXE\sintaxe\sintaxe\bin\Debug\sintaxe.exe.config
+E:\ESTUDO C#\FUNÇÕES\SINTAXE\sintaxe\sintaxe\bin\Debug\sintaxe.exe
+E:\ESTUDO C#\FUNÇÕES\SINTAXE\sintaxe\sintaxe\bin\Debug\sintaxe.pdb
+E:\ESTUDO C#\FUNÇÕES\SINTAXE\sintaxe\sintaxe\obj\Debug\sintaxe.csproj.AssemblyReference.cache
+E:\ESTUDO C#\FUNÇÕES\SINTAXE\sintaxe\sintaxe\obj\Debug\sintaxe.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\FUNÇÕES\SINTAXE\sintaxe\sintaxe\obj\Debug\sintaxe.exe
+E:\ESTUDO C#\FUNÇÕES\SINTAXE\sintaxe\sintaxe\obj\Debug\sintaxe.pdb

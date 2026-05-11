@@ -1,0 +1,7 @@
+E:\ESTUDO C#\FUNÇÕES\While\While\bin\Debug\While.exe.config
+E:\ESTUDO C#\FUNÇÕES\While\While\bin\Debug\While.exe
+E:\ESTUDO C#\FUNÇÕES\While\While\bin\Debug\While.pdb
+E:\ESTUDO C#\FUNÇÕES\While\While\obj\Debug\While.csproj.AssemblyReference.cache
+E:\ESTUDO C#\FUNÇÕES\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\FUNÇÕES\While\While\obj\Debug\While.exe
+E:\ESTUDO C#\FUNÇÕES\While\While\obj\Debug\While.pdb
