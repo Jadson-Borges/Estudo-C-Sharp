@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\Estrutura Condicional atividade\\Estrutura Condicional Atividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DF3E69-805F-48D3-9CF0-2114B7E35493}|Estrutura Condicional Atividade\\Estrutura Condicional Atividade.csproj|e:\\estudo c#\\estrutura condicional atividade\\estrutura condicional atividade\\estrutura condicional atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DF3E69-805F-48D3-9CF0-2114B7E35493}|Estrutura Condicional Atividade\\Estrutura Condicional Atividade.csproj|solutionrelative:estrutura condicional atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\Estrutura Condicional atividade\\Estrutura Condicional Atividade\\Estrutura Condicional Atividade\\Program.cs",
+              "RelativeDocumentMoniker": "Estrutura Condicional Atividade\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\Estrutura Condicional atividade\\Estrutura Condicional Atividade\\Estrutura Condicional Atividade\\Program.cs",
+              "RelativeToolTip": "Estrutura Condicional Atividade\\Program.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAwwNYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:21:44.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
