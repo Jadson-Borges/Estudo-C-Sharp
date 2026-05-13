@@ -24,25 +24,27 @@ namespace EXERCICIO_ESTRUTURA_FOR
 
             //------------------------------------------------------------------------------------------------------------
             //Atividade 2
+            //Escreva um programa que leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo, mostrando essas informações na tela.
+            //int n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite um valor: ");
-            double x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            //int cont_in = 0;
+            //int cont_out = 0;
 
-            string resultado = "";
+            //for (int i = 0; i < n; i++)
+            //{
+            //    int x = int.Parse(Console.ReadLine());
+            //    if (x >= 10 && x <= 20)
+            //    {
+            //        cont_in = cont_in + 1;
+            //    }
+            //    else
+            //    {
+            //        cont_out = cont_out + 1;
+            //    }
+            //}
 
-            for (int i = 1; i <= x; i++)
-            {
-
-                if (i >= 10 && i <= 20)
-                {
-                    resultado += i.ToString("F2", CultureInfo.InvariantCulture) + "\n";
-                    Console.WriteLine("");
-                }
-                
-            }
-
-            Console.WriteLine("Números fora do intervalo de 10 a 20:");
-            Console.WriteLine(resultado);
+            //Console.WriteLine(cont_in + " in");
+            //Console.WriteLine(cont_out + " out");
 
             //-------------------------------------------------------------------------------------------------------------
             //atividade 3
@@ -69,8 +71,67 @@ namespace EXERCICIO_ESTRUTURA_FOR
 
             //-------------------------------------------------------------------------------------------------------------
             //Atividade 4
+            //Escreva um programa que leia um valor inteiro N. Este valor será a quantidade de pares de valores inteiros X e Y que serão lidos em seguida. Para cada par lido, mostre o resultado da divisão de X por Y, com uma casa decimal. Se a divisão for impossível, mostre a mensagem "divisao impossivel".
 
+            //int n = int.Parse(Console.ReadLine());
 
+            //for (int i = 0; i < n; i++)
+            //{
+
+            //    string[] line = Console.ReadLine().Split(' ');
+            //    int x = int.Parse(line[0]);
+            //    int y = int.Parse(line[1]);
+
+            //    if (y == 0)
+            //    {
+            //        Console.WriteLine("divisao impossivel");
+            //    }
+            //    else
+            //    {
+            //        double div = (double)x / y;
+            //        Console.WriteLine(div.ToString("F1", CultureInfo.InvariantCulture));
+            //    }
+            //}
+
+            //-------------------------------------------------------------------------------------------------------------
+            //Atividade 5
+            //Escreva um programa que leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Para cada valor lido, mostre o fatorial de X.
+            //int n = int.Parse(Console.ReadLine());
+
+            //int fat = 1;
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    fat = fat * i;
+            //}
+
+            //Console.WriteLine(fat);
+
+            //-------------------------------------------------------------------------------------------------------------
+            //Atividade 6
+            //Ler um número inteiro N e calcular todos os seus divisores.
+            //int n = int.Parse(Console.ReadLine());
+
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    if (n % i == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //}
+
+            //-------------------------------------------------------------------------------------------------------------
+            //Atividade 7
+
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= n; i++)
+            {
+
+                int primeiro = i;
+                int segundo = i * i;
+                int terceiro = i * i * i;
+                Console.WriteLine($"{primeiro} {segundo} {terceiro}");
+            }
 
         }
     }

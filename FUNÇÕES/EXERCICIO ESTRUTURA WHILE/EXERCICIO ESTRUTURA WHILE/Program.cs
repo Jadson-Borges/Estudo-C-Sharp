@@ -26,7 +26,6 @@ namespace EXERCICIO_ESTRUTURA_WHILE
 
             //Console.WriteLine("Senha Correta!");
             //-----------------------------------------------------------------------------------
-
             //Exercicio 2
 
             //ao escrever as variaveis X e Y, o programa ira identificar em qual quadrante do plano cartesiano elas se encontram, caso sejam iguais a zero o programa ira encerrar
