@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Primeiros Exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F93DA729-F285-4796-BF76-E8AB688C8609}|Primeiros Exercicios\\Primeiros Exercicios.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\primeiros exercicios\\primeiros exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93DA729-F285-4796-BF76-E8AB688C8609}|Primeiros Exercicios\\Primeiros Exercicios.csproj|solutionrelative:primeiros exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93DA729-F285-4796-BF76-E8AB688C8609}|Primeiros Exercicios\\Primeiros Exercicios.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\primeiros exercicios\\primeiros exercicios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93DA729-F285-4796-BF76-E8AB688C8609}|Primeiros Exercicios\\Primeiros Exercicios.csproj|solutionrelative:primeiros exercicios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Primeiros Exercicios\\Primeiros Exercicios\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Primeiros Exercicios\\Funcionario.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Primeiros Exercicios\\Primeiros Exercicios\\Funcionario.cs",
+              "RelativeToolTip": "Primeiros Exercicios\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:31:50.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Primeiros Exercicios\\Primeiros Exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Primeiros Exercicios\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Primeiros Exercicios\\Primeiros Exercicios\\Program.cs",
+              "RelativeToolTip": "Primeiros Exercicios\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:18:45.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
