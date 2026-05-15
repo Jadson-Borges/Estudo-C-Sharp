@@ -13,6 +13,15 @@ namespace Segundo_Exercicio
         {
             return Preco * Quantidade;
         }
+        public void AdProduto(int quantidade)
+        {
+            Quantidade += quantidade;
+        }
+
+        public void RMProduto(int quantidade)
+        {
+            Quantidade -= quantidade;
+        }
 
         public override string ToString()
         {
@@ -20,5 +29,7 @@ namespace Segundo_Exercicio
                 + " - Quantidade do estoque atual: "+ Quantidade + " Unidades, "
                 + " Valor unitário: R$ " + Preco.ToString("F2", CultureInfo.InvariantCulture);
         }
+
+        
     }
 }

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Segundo_Exercicio
 {
@@ -13,14 +9,23 @@ namespace Segundo_Exercicio
             Produtos p = new Produtos();
 
             Console.WriteLine("Entre os dados do produto");
-            Console.WriteLine("Nome: ");
+            Console.Write("Nome: ");
             p.Nome = Console.ReadLine();
-            Console.WriteLine("Preço: ");
+            Console.Write("Preço: ");
             p.Preco = double.Parse(Console.ReadLine());
-            Console.WriteLine("Quantidade: ");
+            Console.Write("Quantidade: ");
             p.Quantidade = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Dados do produto: " + p);
+
+            Console.WriteLine("Digite o número de produtos a ser adicionado ao estoque: ");
+            p.AdProduto(int.Parse(Console.ReadLine()));
+            Console.WriteLine("Estoque atualizado: " + p);
+
+            Console.WriteLine("Digite o numero de produtos a ser removido do estoque: ");
+            p.RMProduto(int.Parse(Console.ReadLine()));
+            Console.WriteLine("Estoque atualizado: " + p);
+
         }
     }
 }
