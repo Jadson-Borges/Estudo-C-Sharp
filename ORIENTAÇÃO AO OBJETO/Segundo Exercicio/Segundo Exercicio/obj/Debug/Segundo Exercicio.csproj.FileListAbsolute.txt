@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Segundo Exercicio\Segundo Exercicio\bin\Debug\Segundo Exercicio.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Segundo Exercicio\Segundo Exercicio\bin\Debug\Segundo Exercicio.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Segundo Exercicio\Segundo Exercicio\bin\Debug\Segundo Exercicio.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Segundo Exercicio\Segundo Exercicio\obj\Debug\Segundo Exercicio.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Segundo Exercicio\Segundo Exercicio\obj\Debug\Segundo Exercicio.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Segundo Exercicio\Segundo Exercicio\obj\Debug\Segundo Exercicio.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Segundo Exercicio\Segundo Exercicio\obj\Debug\Segundo Exercicio.pdb
