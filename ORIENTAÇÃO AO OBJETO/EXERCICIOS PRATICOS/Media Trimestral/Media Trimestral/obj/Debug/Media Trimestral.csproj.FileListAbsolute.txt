@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Media Trimestral\Media Trimestral\bin\Debug\Media Trimestral.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Media Trimestral\Media Trimestral\bin\Debug\Media Trimestral.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Media Trimestral\Media Trimestral\bin\Debug\Media Trimestral.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Media Trimestral\Media Trimestral\obj\Debug\Media Trimestral.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Media Trimestral\Media Trimestral\obj\Debug\Media Trimestral.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Media Trimestral\Media Trimestral\obj\Debug\Media Trimestral.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Media Trimestral\Media Trimestral\obj\Debug\Media Trimestral.pdb
