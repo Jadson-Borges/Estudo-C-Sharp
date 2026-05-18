@@ -1,0 +1,7 @@
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Membros Estaticos\Membros Estaticos\bin\Debug\Membros Estaticos.exe.config
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Membros Estaticos\Membros Estaticos\bin\Debug\Membros Estaticos.exe
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Membros Estaticos\Membros Estaticos\bin\Debug\Membros Estaticos.pdb
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Membros Estaticos\Membros Estaticos\obj\Debug\Membros Estaticos.csproj.AssemblyReference.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Membros Estaticos\Membros Estaticos\obj\Debug\Membros Estaticos.csproj.CoreCompileInputs.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Membros Estaticos\Membros Estaticos\obj\Debug\Membros Estaticos.exe
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Membros Estaticos\Membros Estaticos\obj\Debug\Membros Estaticos.pdb
