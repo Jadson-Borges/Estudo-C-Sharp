@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Membros Estaticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D86CCCBB-6847-45D5-8AA9-B2761E04CF83}|Membros Estaticos\\Membros Estaticos.csproj|d:\\estudo c#\\estudo-c-sharp\\orienta\u00E7\u00E3o ao objeto\\membros estaticos\\membros estaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86CCCBB-6847-45D5-8AA9-B2761E04CF83}|Membros Estaticos\\Membros Estaticos.csproj|solutionrelative:membros estaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Membros Estaticos\\Membros Estaticos\\Program.cs",
+              "RelativeDocumentMoniker": "Membros Estaticos\\Program.cs",
+              "ToolTip": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Membros Estaticos\\Membros Estaticos\\Program.cs",
+              "RelativeToolTip": "Membros Estaticos\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T04:00:00.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
