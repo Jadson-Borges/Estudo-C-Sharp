@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Properties\\",
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Auto Properties\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A070903C-A488-4A94-8108-989F7626F09A}|Aula 04 Properties\\Aula 04 Properties.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\construtores\\aula 04 properties\\aula 04 properties\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A070903C-A488-4A94-8108-989F7626F09A}|Aula 04 Properties\\Aula 04 Properties.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\construtores\\aula 04 auto properties\\aula 04 properties\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A070903C-A488-4A94-8108-989F7626F09A}|Aula 04 Properties\\Aula 04 Properties.csproj|solutionrelative:aula 04 properties\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A070903C-A488-4A94-8108-989F7626F09A}|Aula 04 Properties\\Aula 04 Properties.csproj|E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Properties\\aula 04 properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A070903C-A488-4A94-8108-989F7626F09A}|Aula 04 Properties\\Aula 04 Properties.csproj|E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Auto Properties\\aula 04 properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A070903C-A488-4A94-8108-989F7626F09A}|Aula 04 Properties\\Aula 04 Properties.csproj|solutionrelative:aula 04 properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Produtos.cs",
-              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Properties\\Aula 04 Properties\\Produtos.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Auto Properties\\Aula 04 Properties\\Produtos.cs",
               "RelativeDocumentMoniker": "Aula 04 Properties\\Produtos.cs",
-              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Properties\\Aula 04 Properties\\Produtos.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Auto Properties\\Aula 04 Properties\\Produtos.cs",
               "RelativeToolTip": "Aula 04 Properties\\Produtos.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T16:02:39.482Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Properties\\Aula 04 Properties\\Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Auto Properties\\Aula 04 Properties\\Program.cs",
               "RelativeDocumentMoniker": "Aula 04 Properties\\Program.cs",
-              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Properties\\Aula 04 Properties\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\Aula 04 Auto Properties\\Aula 04 Properties\\Program.cs",
               "RelativeToolTip": "Aula 04 Properties\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T16:01:01.367Z",
               "EditorCaption": ""

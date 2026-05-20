@@ -1,0 +1,14 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Properties\Aula 04 Properties\bin\Debug\Aula 04 Properties.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Properties\Aula 04 Properties\bin\Debug\Aula 04 Properties.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Properties\Aula 04 Properties\bin\Debug\Aula 04 Properties.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Properties\Aula 04 Properties\obj\Debug\Aula 04 Properties.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Properties\Aula 04 Properties\obj\Debug\Aula 04 Properties.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Properties\Aula 04 Properties\obj\Debug\Aula 04 Properties.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Properties\Aula 04 Properties\obj\Debug\Aula 04 Properties.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Auto Properties\Aula 04 Properties\bin\Debug\Aula 04 Properties.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Auto Properties\Aula 04 Properties\bin\Debug\Aula 04 Properties.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Auto Properties\Aula 04 Properties\bin\Debug\Aula 04 Properties.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Auto Properties\Aula 04 Properties\obj\Debug\Aula 04 Properties.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Auto Properties\Aula 04 Properties\obj\Debug\Aula 04 Properties.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Auto Properties\Aula 04 Properties\obj\Debug\Aula 04 Properties.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 04 Auto Properties\Aula 04 Properties\obj\Debug\Aula 04 Properties.pdb
