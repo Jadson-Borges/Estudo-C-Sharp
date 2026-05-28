@@ -1,0 +1,7 @@
+ORDEM SUGERIDA CLASSE EM C#
+
+• Atributos Privado
+• Propriedades autoimplementadas
+• Construtores
+• Propriedades customizadas
+• Outros métodos da classe
