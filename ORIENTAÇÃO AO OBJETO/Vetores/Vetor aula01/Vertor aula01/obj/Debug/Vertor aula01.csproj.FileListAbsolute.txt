@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\ATIVIDADES\Vertor aula01\Vertor aula01\bin\Debug\Vertor aula01.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\ATIVIDADES\Vertor aula01\Vertor aula01\bin\Debug\Vertor aula01.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\ATIVIDADES\Vertor aula01\Vertor aula01\bin\Debug\Vertor aula01.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\ATIVIDADES\Vertor aula01\Vertor aula01\obj\Debug\Vertor aula01.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\ATIVIDADES\Vertor aula01\Vertor aula01\obj\Debug\Vertor aula01.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\ATIVIDADES\Vertor aula01\Vertor aula01\obj\Debug\Vertor aula01.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\ATIVIDADES\Vertor aula01\Vertor aula01\obj\Debug\Vertor aula01.pdb

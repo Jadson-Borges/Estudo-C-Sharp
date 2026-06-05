@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Hospedagem\Hospedagem\bin\Debug\Hospedagem.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Hospedagem\Hospedagem\bin\Debug\Hospedagem.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Hospedagem\Hospedagem\bin\Debug\Hospedagem.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Hospedagem\Hospedagem\obj\Debug\Hospedagem.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Hospedagem\Hospedagem\obj\Debug\Hospedagem.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Hospedagem\Hospedagem\obj\Debug\Hospedagem.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Hospedagem\Hospedagem\obj\Debug\Hospedagem.pdb

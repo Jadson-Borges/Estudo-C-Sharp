@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Soma\Soma\bin\Debug\Soma.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Soma\Soma\bin\Debug\Soma.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Soma\Soma\bin\Debug\Soma.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Soma\Soma\obj\Debug\Soma.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Soma\Soma\obj\Debug\Soma.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Soma\Soma\obj\Debug\Soma.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Soma\Soma\obj\Debug\Soma.pdb
