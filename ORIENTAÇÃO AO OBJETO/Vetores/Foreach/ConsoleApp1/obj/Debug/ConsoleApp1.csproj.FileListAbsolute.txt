@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Foreach\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Foreach\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Foreach\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Foreach\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Foreach\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Foreach\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Vetores\Foreach\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
