@@ -52,7 +52,7 @@ namespace Lista_Exemplo
             {
                 Console.WriteLine(obj);
             }
-
+            //remove todos dentro do parametro passado
             list.RemoveAll(x => x[0] == 'J');
             Console.WriteLine("===================================");
 
@@ -61,7 +61,17 @@ namespace Lista_Exemplo
                 Console.WriteLine(obj);
             }
 
+            //remove posição especifica
             list.RemoveAt(0);
+            Console.WriteLine("===================================");
+
+            foreach (string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+
+            //remove a partir de uma posição da lista um numero especificado  de obj
+            list.RemoveRange(0, 5);
             Console.WriteLine("===================================");
 
             foreach (string obj in list)
