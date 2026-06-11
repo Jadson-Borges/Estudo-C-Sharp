@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Matriz\Matriz\bin\Debug\Matriz.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Matriz\Matriz\bin\Debug\Matriz.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Matriz\Matriz\bin\Debug\Matriz.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Matriz\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Matriz\Matriz\obj\Debug\Matriz.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Matriz\Matriz\obj\Debug\Matriz.pdb

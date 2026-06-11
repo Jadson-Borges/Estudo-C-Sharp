@@ -12,7 +12,7 @@ namespace Exercicio_Lista
             List<Funcionarios> lista = new List<Funcionarios>();
 
             
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
                 Console.WriteLine($"Posição #{i}");
                 Console.WriteLine("Nome do funcionario(a)");
