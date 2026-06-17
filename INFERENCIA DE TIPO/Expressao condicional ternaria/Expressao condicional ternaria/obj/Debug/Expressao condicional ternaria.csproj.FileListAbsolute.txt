@@ -1,0 +1,7 @@
+E:\ESTUDO C#\INFERENCIA DE TIPO\Expressao condicional ternaria\Expressao condicional ternaria\bin\Debug\Expressao condicional ternaria.exe.config
+E:\ESTUDO C#\INFERENCIA DE TIPO\Expressao condicional ternaria\Expressao condicional ternaria\bin\Debug\Expressao condicional ternaria.exe
+E:\ESTUDO C#\INFERENCIA DE TIPO\Expressao condicional ternaria\Expressao condicional ternaria\bin\Debug\Expressao condicional ternaria.pdb
+E:\ESTUDO C#\INFERENCIA DE TIPO\Expressao condicional ternaria\Expressao condicional ternaria\obj\Debug\Expressao condicional ternaria.csproj.AssemblyReference.cache
+E:\ESTUDO C#\INFERENCIA DE TIPO\Expressao condicional ternaria\Expressao condicional ternaria\obj\Debug\Expressao condicional ternaria.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\INFERENCIA DE TIPO\Expressao condicional ternaria\Expressao condicional ternaria\obj\Debug\Expressao condicional ternaria.exe
+E:\ESTUDO C#\INFERENCIA DE TIPO\Expressao condicional ternaria\Expressao condicional ternaria\obj\Debug\Expressao condicional ternaria.pdb
