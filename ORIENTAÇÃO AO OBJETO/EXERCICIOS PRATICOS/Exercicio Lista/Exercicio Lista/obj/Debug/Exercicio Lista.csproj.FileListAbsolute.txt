@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Exercicio Lista\Exercicio Lista\bin\Debug\Exercicio Lista.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Exercicio Lista\Exercicio Lista\bin\Debug\Exercicio Lista.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Exercicio Lista\Exercicio Lista\bin\Debug\Exercicio Lista.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Exercicio Lista\Exercicio Lista\obj\Debug\Exercicio Lista.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Exercicio Lista\Exercicio Lista\obj\Debug\Exercicio Lista.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Exercicio Lista\Exercicio Lista\obj\Debug\Exercicio Lista.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Exercicio Lista\Exercicio Lista\obj\Debug\Exercicio Lista.pdb

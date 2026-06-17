@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Matrizes\Exercicio01 Matriz\Exercicio01 Matriz\bin\Debug\Exercicio01 Matriz.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Matrizes\Exercicio01 Matriz\Exercicio01 Matriz\bin\Debug\Exercicio01 Matriz.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Matrizes\Exercicio01 Matriz\Exercicio01 Matriz\bin\Debug\Exercicio01 Matriz.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Matrizes\Exercicio01 Matriz\Exercicio01 Matriz\obj\Debug\Exercicio01 Matriz.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Matrizes\Exercicio01 Matriz\Exercicio01 Matriz\obj\Debug\Exercicio01 Matriz.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Matrizes\Exercicio01 Matriz\Exercicio01 Matriz\obj\Debug\Exercicio01 Matriz.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Matrizes\Exercicio01 Matriz\Exercicio01 Matriz\obj\Debug\Exercicio01 Matriz.pdb

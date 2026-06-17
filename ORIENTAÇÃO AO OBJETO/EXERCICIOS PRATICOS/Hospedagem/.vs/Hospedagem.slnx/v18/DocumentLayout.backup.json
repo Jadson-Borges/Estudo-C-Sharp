@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Hospedagem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC3B4EA-8BD5-4029-8E3F-F4E919E822B8}|Hospedagem\\Hospedagem.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\hospedagem\\hospedagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC3B4EA-8BD5-4029-8E3F-F4E919E822B8}|Hospedagem\\Hospedagem.csproj|solutionrelative:hospedagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC3B4EA-8BD5-4029-8E3F-F4E919E822B8}|Hospedagem\\Hospedagem.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\hospedagem\\hospedagem\\hospede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC3B4EA-8BD5-4029-8E3F-F4E919E822B8}|Hospedagem\\Hospedagem.csproj|solutionrelative:hospedagem\\hospede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hospede.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Hospedagem\\Hospedagem\\Hospede.cs",
+              "RelativeDocumentMoniker": "Hospedagem\\Hospede.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Hospedagem\\Hospedagem\\Hospede.cs",
+              "RelativeToolTip": "Hospedagem\\Hospede.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:02:26.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Hospedagem\\Hospedagem\\Program.cs",
+              "RelativeDocumentMoniker": "Hospedagem\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Hospedagem\\Hospedagem\\Program.cs",
+              "RelativeToolTip": "Hospedagem\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:24:18.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
