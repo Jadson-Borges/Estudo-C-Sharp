@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\Estudo de Enumeracao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Estudo de Enumeracao\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\Estudo de Enumeracao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Estudo de Enumeracao\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T18:17:20.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\Estudo de Enumeracao\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Estudo de Enumeracao\\Entities\\Order.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\Estudo de Enumeracao\\Entities\\Order.cs",
+              "RelativeToolTip": "Estudo de Enumeracao\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T18:15:09.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\Estudo de Enumeracao\\Program.cs",
+              "RelativeDocumentMoniker": "Estudo de Enumeracao\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\Estudo de Enumeracao\\Program.cs",
+              "RelativeToolTip": "Estudo de Enumeracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T18:14:19.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
