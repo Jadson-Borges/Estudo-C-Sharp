@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Atividade Membros Estaticos\\ATIVIDADE 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EE1C22-6C7A-42CC-A926-51F405595492}|ATIVIDADE 01\\ATIVIDADE 01.csproj|d:\\estudo c#\\estudo-c-sharp\\orienta\u00E7\u00E3o ao objeto\\atividade membros estaticos\\atividade 01\\atividade 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EE1C22-6C7A-42CC-A926-51F405595492}|ATIVIDADE 01\\ATIVIDADE 01.csproj|solutionrelative:atividade 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EE1C22-6C7A-42CC-A926-51F405595492}|ATIVIDADE 01\\ATIVIDADE 01.csproj|d:\\estudo c#\\estudo-c-sharp\\orienta\u00E7\u00E3o ao objeto\\atividade membros estaticos\\atividade 01\\atividade 01\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EE1C22-6C7A-42CC-A926-51F405595492}|ATIVIDADE 01\\ATIVIDADE 01.csproj|solutionrelative:atividade 01\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dolar.cs",
+              "DocumentMoniker": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Atividade Membros Estaticos\\ATIVIDADE 01\\ATIVIDADE 01\\Dolar.cs",
+              "RelativeDocumentMoniker": "ATIVIDADE 01\\Dolar.cs",
+              "ToolTip": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Atividade Membros Estaticos\\ATIVIDADE 01\\ATIVIDADE 01\\Dolar.cs",
+              "RelativeToolTip": "ATIVIDADE 01\\Dolar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:10:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Atividade Membros Estaticos\\ATIVIDADE 01\\ATIVIDADE 01\\Program.cs",
+              "RelativeDocumentMoniker": "ATIVIDADE 01\\Program.cs",
+              "ToolTip": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Atividade Membros Estaticos\\ATIVIDADE 01\\ATIVIDADE 01\\Program.cs",
+              "RelativeToolTip": "ATIVIDADE 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:06:48.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

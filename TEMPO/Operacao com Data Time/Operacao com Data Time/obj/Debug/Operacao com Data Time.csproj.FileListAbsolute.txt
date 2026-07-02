@@ -1,0 +1,7 @@
+E:\ESTUDO C#\TEMPO\Operacao com Data Time\Operacao com Data Time\bin\Debug\Operacao com Data Time.exe.config
+E:\ESTUDO C#\TEMPO\Operacao com Data Time\Operacao com Data Time\bin\Debug\Operacao com Data Time.exe
+E:\ESTUDO C#\TEMPO\Operacao com Data Time\Operacao com Data Time\bin\Debug\Operacao com Data Time.pdb
+E:\ESTUDO C#\TEMPO\Operacao com Data Time\Operacao com Data Time\obj\Debug\Operacao com Data Time.csproj.AssemblyReference.cache
+E:\ESTUDO C#\TEMPO\Operacao com Data Time\Operacao com Data Time\obj\Debug\Operacao com Data Time.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\TEMPO\Operacao com Data Time\Operacao com Data Time\obj\Debug\Operacao com Data Time.exe
+E:\ESTUDO C#\TEMPO\Operacao com Data Time\Operacao com Data Time\obj\Debug\Operacao com Data Time.pdb

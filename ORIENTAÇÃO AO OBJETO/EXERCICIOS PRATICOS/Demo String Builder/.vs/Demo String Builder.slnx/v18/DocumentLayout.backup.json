@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Demo String Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46019AD2-E2CE-1732-7CD8-15CB3B6DF5D5}|Demo String Builder\\Demo String Builder.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\demo string builder\\demo string builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46019AD2-E2CE-1732-7CD8-15CB3B6DF5D5}|Demo String Builder\\Demo String Builder.csproj|solutionrelative:demo string builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46019AD2-E2CE-1732-7CD8-15CB3B6DF5D5}|Demo String Builder\\Demo String Builder.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\demo string builder\\demo string builder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46019AD2-E2CE-1732-7CD8-15CB3B6DF5D5}|Demo String Builder\\Demo String Builder.csproj|solutionrelative:demo string builder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46019AD2-E2CE-1732-7CD8-15CB3B6DF5D5}|Demo String Builder\\Demo String Builder.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\demo string builder\\demo string builder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46019AD2-E2CE-1732-7CD8-15CB3B6DF5D5}|Demo String Builder\\Demo String Builder.csproj|solutionrelative:demo string builder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Demo String Builder\\Demo String Builder\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Demo String Builder\\Entities\\Post.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Demo String Builder\\Demo String Builder\\Entities\\Post.cs",
+              "RelativeToolTip": "Demo String Builder\\Entities\\Post.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:04:45.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Demo String Builder\\Demo String Builder\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Demo String Builder\\Entities\\Comment.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Demo String Builder\\Demo String Builder\\Entities\\Comment.cs",
+              "RelativeToolTip": "Demo String Builder\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:01:47.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Demo String Builder\\Demo String Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Demo String Builder\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Demo String Builder\\Demo String Builder\\Program.cs",
+              "RelativeToolTip": "Demo String Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:01:10.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

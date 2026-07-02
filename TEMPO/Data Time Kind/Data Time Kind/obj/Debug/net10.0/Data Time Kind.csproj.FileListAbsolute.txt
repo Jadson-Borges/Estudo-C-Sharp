@@ -1,0 +1,15 @@
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\bin\Debug\net10.0\Data Time Kind.exe
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\bin\Debug\net10.0\Data Time Kind.deps.json
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\bin\Debug\net10.0\Data Time Kind.runtimeconfig.json
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\bin\Debug\net10.0\Data Time Kind.dll
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\bin\Debug\net10.0\Data Time Kind.pdb
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\Data Time Kind.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\Data Time Kind.AssemblyInfoInputs.cache
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\Data Time Kind.AssemblyInfo.cs
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\Data Time Kind.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\Data Time Kind.sourcelink.json
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\Data Time Kind.dll
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\refint\Data Time Kind.dll
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\Data Time Kind.pdb
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\Data Time Kind.genruntimeconfig.cache
+E:\ESTUDO C#\TEMPO\Data Time Kind\Data Time Kind\obj\Debug\net10.0\ref\Data Time Kind.dll

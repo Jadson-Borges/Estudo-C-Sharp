@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\Estudo de Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\Estudo de Enumeracao.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\Estudo de Enumeracao.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\Estudo de Enumeracao.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\Estudo de Enumeracao.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\bin\Debug\net10.0\Estudo de Enumeracao.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\bin\Debug\net10.0\Estudo de Enumeracao.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\bin\Debug\net10.0\Estudo de Enumeracao.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\bin\Debug\net10.0\Estudo de Enumeracao.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\bin\Debug\net10.0\Estudo de Enumeracao.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\Estudo de Enumeracao.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\refint\Estudo de Enumeracao.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\Estudo de Enumeracao.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\Estudo de Enumeracao.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Estudo de Enumeracao\Estudo de Enumeracao\obj\Debug\net10.0\ref\Estudo de Enumeracao.dll

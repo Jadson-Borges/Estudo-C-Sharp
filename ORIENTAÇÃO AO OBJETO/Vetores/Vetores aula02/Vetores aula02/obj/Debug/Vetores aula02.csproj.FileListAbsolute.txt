@@ -1,0 +1,7 @@
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Vetores\Vetores aula02\Vetores aula02\bin\Debug\Vetores aula02.exe.config
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Vetores\Vetores aula02\Vetores aula02\bin\Debug\Vetores aula02.exe
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Vetores\Vetores aula02\Vetores aula02\bin\Debug\Vetores aula02.pdb
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Vetores\Vetores aula02\Vetores aula02\obj\Debug\Vetores aula02.csproj.AssemblyReference.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Vetores\Vetores aula02\Vetores aula02\obj\Debug\Vetores aula02.csproj.CoreCompileInputs.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Vetores\Vetores aula02\Vetores aula02\obj\Debug\Vetores aula02.exe
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\Vetores\Vetores aula02\Vetores aula02\obj\Debug\Vetores aula02.pdb
