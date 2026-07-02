@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EAF2318-4A10-6B7D-150A-85A3005F4919}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAF2318-4A10-6B7D-150A-85A3005F4919}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EAF2318-4A10-6B7D-150A-85A3005F4919}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAF2318-4A10-6B7D-150A-85A3005F4919}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{478C3A8B-E002-4BCA-A128-BE6E9E6A1E27}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EAF2318-4A10-6B7D-150A-85A3005F4919}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\estudo de enumeracao\\estudo de enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAF2318-4A10-6B7D-150A-85A3005F4919}|Estudo de Enumeracao\\Estudo de Enumeracao.csproj|solutionrelative:estudo de enumeracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\Estudo de Enumeracao\\Entities\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Estudo de Enumeracao\\Entities\\Enums\\OrderStatus.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Estudo de Enumeracao\\Estudo de Enumeracao\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Estudo de Enumeracao\\Entities\\Order.cs",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Estudo de Enumeracao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T18:14:19.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T18:14:19.955Z"
             }
           ]
         }
