@@ -1,0 +1,7 @@
+E:\ESTUDO C#\INFERENCIA DE TIPO\Var\Var\bin\Debug\Var.exe.config
+E:\ESTUDO C#\INFERENCIA DE TIPO\Var\Var\bin\Debug\Var.exe
+E:\ESTUDO C#\INFERENCIA DE TIPO\Var\Var\bin\Debug\Var.pdb
+E:\ESTUDO C#\INFERENCIA DE TIPO\Var\Var\obj\Debug\Var.csproj.AssemblyReference.cache
+E:\ESTUDO C#\INFERENCIA DE TIPO\Var\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\INFERENCIA DE TIPO\Var\Var\obj\Debug\Var.exe
+E:\ESTUDO C#\INFERENCIA DE TIPO\Var\Var\obj\Debug\Var.pdb

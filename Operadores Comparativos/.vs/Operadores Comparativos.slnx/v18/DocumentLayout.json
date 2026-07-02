@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "Operadores Comparativos\\Program.cs",
               "ToolTip": "E:\\ESTUDO C#\\Operadores Comparativos\\Operadores Comparativos\\Program.cs",
               "RelativeToolTip": "Operadores Comparativos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACEAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAwAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T19:00:06.493Z",
               "EditorCaption": ""

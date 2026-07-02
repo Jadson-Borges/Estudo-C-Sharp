@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\LISTAS\Lista Exemplo\Lista Exemplo\bin\Debug\Lista Exemplo.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\LISTAS\Lista Exemplo\Lista Exemplo\bin\Debug\Lista Exemplo.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\LISTAS\Lista Exemplo\Lista Exemplo\bin\Debug\Lista Exemplo.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\LISTAS\Lista Exemplo\Lista Exemplo\obj\Debug\Lista Exemplo.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\LISTAS\Lista Exemplo\Lista Exemplo\obj\Debug\Lista Exemplo.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\LISTAS\Lista Exemplo\Lista Exemplo\obj\Debug\Lista Exemplo.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\LISTAS\Lista Exemplo\Lista Exemplo\obj\Debug\Lista Exemplo.pdb

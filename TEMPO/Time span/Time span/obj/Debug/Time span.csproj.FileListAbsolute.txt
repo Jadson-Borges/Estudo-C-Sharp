@@ -1,0 +1,7 @@
+E:\ESTUDO C#\TEMPO\Time span\Time span\bin\Debug\Time span.exe.config
+E:\ESTUDO C#\TEMPO\Time span\Time span\bin\Debug\Time span.exe
+E:\ESTUDO C#\TEMPO\Time span\Time span\bin\Debug\Time span.pdb
+E:\ESTUDO C#\TEMPO\Time span\Time span\obj\Debug\Time span.csproj.AssemblyReference.cache
+E:\ESTUDO C#\TEMPO\Time span\Time span\obj\Debug\Time span.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\TEMPO\Time span\Time span\obj\Debug\Time span.exe
+E:\ESTUDO C#\TEMPO\Time span\Time span\obj\Debug\Time span.pdb

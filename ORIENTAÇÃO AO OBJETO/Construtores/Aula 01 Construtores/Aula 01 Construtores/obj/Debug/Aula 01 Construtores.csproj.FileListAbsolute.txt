@@ -1,0 +1,7 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 01 Construtores\Aula 01 Construtores\bin\Debug\Aula 01 Construtores.exe.config
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 01 Construtores\Aula 01 Construtores\bin\Debug\Aula 01 Construtores.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 01 Construtores\Aula 01 Construtores\bin\Debug\Aula 01 Construtores.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 01 Construtores\Aula 01 Construtores\obj\Debug\Aula 01 Construtores.csproj.AssemblyReference.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 01 Construtores\Aula 01 Construtores\obj\Debug\Aula 01 Construtores.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 01 Construtores\Aula 01 Construtores\obj\Debug\Aula 01 Construtores.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Construtores\Aula 01 Construtores\Aula 01 Construtores\obj\Debug\Aula 01 Construtores.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Matrizes\\Exercicio01 Matriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30547020-75F5-46E7-9D92-F357A63D00FA}|Exercicio01 Matriz\\Exercicio01 Matriz.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\matrizes\\exercicio01 matriz\\exercicio01 matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30547020-75F5-46E7-9D92-F357A63D00FA}|Exercicio01 Matriz\\Exercicio01 Matriz.csproj|solutionrelative:exercicio01 matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Matrizes\\Exercicio01 Matriz\\Exercicio01 Matriz\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio01 Matriz\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Matrizes\\Exercicio01 Matriz\\Exercicio01 Matriz\\Program.cs",
+              "RelativeToolTip": "Exercicio01 Matriz\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T13:14:10.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

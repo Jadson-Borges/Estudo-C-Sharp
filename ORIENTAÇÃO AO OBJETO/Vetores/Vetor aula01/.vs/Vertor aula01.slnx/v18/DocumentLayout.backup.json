@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\ATIVIDADES\\Vertor aula01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C61034B-6C0F-437E-AF7F-C6E0C38C042A}|Vertor aula01\\Vertor aula01.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\construtores\\atividades\\vertor aula01\\vertor aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C61034B-6C0F-437E-AF7F-C6E0C38C042A}|Vertor aula01\\Vertor aula01.csproj|solutionrelative:vertor aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\ATIVIDADES\\Vertor aula01\\Vertor aula01\\Program.cs",
+              "RelativeDocumentMoniker": "Vertor aula01\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Construtores\\ATIVIDADES\\Vertor aula01\\Vertor aula01\\Program.cs",
+              "RelativeToolTip": "Vertor aula01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:27:05.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

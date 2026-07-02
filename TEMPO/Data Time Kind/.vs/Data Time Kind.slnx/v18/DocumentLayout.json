@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\TEMPO\\Data Time Kind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B29A3B56-A409-4ECA-A86E-1CE9BBE3FE4D}|Data Time Kind\\Data Time Kind.csproj|e:\\estudo c#\\tempo\\data time kind\\data time kind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29A3B56-A409-4ECA-A86E-1CE9BBE3FE4D}|Data Time Kind\\Data Time Kind.csproj|solutionrelative:data time kind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\TEMPO\\Data Time Kind\\Data Time Kind\\Program.cs",
+              "RelativeDocumentMoniker": "Data Time Kind\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\TEMPO\\Data Time Kind\\Data Time Kind\\Program.cs",
+              "RelativeToolTip": "Data Time Kind\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T19:49:13.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

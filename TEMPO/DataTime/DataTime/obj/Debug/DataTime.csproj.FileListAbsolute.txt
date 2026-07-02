@@ -1,0 +1,7 @@
+E:\ESTUDO C#\DataTime\DataTime\bin\Debug\DataTime.exe.config
+E:\ESTUDO C#\DataTime\DataTime\bin\Debug\DataTime.exe
+E:\ESTUDO C#\DataTime\DataTime\bin\Debug\DataTime.pdb
+E:\ESTUDO C#\DataTime\DataTime\obj\Debug\DataTime.csproj.AssemblyReference.cache
+E:\ESTUDO C#\DataTime\DataTime\obj\Debug\DataTime.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\DataTime\DataTime\obj\Debug\DataTime.exe
+E:\ESTUDO C#\DataTime\DataTime\obj\Debug\DataTime.pdb
