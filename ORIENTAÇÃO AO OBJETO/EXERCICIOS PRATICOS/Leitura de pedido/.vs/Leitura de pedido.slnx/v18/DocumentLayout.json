@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Leitura de pedido\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EED9AA29-0257-4E50-9EFF-C226B8336380}|Leitura de pedido\\Leitura de pedido.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\leitura de pedido\\leitura de pedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED9AA29-0257-4E50-9EFF-C226B8336380}|Leitura de pedido\\Leitura de pedido.csproj|solutionrelative:leitura de pedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483A697E-8DCC-DB69-4A98-6B18A357A348}|Leitura de pedido\\Leitura de pedido.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\leitura de pedido\\leitura de pedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483A697E-8DCC-DB69-4A98-6B18A357A348}|Leitura de pedido\\Leitura de pedido.csproj|solutionrelative:leitura de pedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED9AA29-0257-4E50-9EFF-C226B8336380}|Leitura de pedido\\Leitura de pedido.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\leitura de pedido\\leitura de pedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED9AA29-0257-4E50-9EFF-C226B8336380}|Leitura de pedido\\Leitura de pedido.csproj|solutionrelative:leitura de pedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED9AA29-0257-4E50-9EFF-C226B8336380}|Leitura de pedido\\Leitura de pedido.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\leitura de pedido\\leitura de pedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED9AA29-0257-4E50-9EFF-C226B8336380}|Leitura de pedido\\Leitura de pedido.csproj|solutionrelative:leitura de pedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483A697E-8DCC-DB69-4A98-6B18A357A348}|Leitura de pedido\\Leitura de pedido.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\leitura de pedido\\leitura de pedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483A697E-8DCC-DB69-4A98-6B18A357A348}|Leitura de pedido\\Leitura de pedido.csproj|solutionrelative:leitura de pedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Leitura de pedido\\Leitura de pedido\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Leitura de pedido\\Entities\\OrderItem.cs",
-              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Leitura de pedido\\Leitura de pedido\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "Leitura de pedido\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Leitura de pedido\\Leitura de pedido\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Leitura de pedido\\Entities\\Order.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Leitura de pedido\\Leitura de pedido\\Entities\\Order.cs",
+              "RelativeToolTip": "Leitura de pedido\\Entities\\Order.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T16:23:23.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Leitura de pedido\\Leitura de pedido\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Leitura de pedido\\Entities\\Product.cs",
-              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Leitura de pedido\\Leitura de pedido\\Entities\\Product.cs",
-              "RelativeToolTip": "Leitura de pedido\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T16:19:58.96Z",
+              "WhenOpened": "2026-07-04T14:59:16.199Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +41,7 @@
               "RelativeDocumentMoniker": "Leitura de pedido\\Program.cs",
               "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Leitura de pedido\\Leitura de pedido\\Program.cs",
               "RelativeToolTip": "Leitura de pedido\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T16:04:40.592Z",
               "EditorCaption": ""

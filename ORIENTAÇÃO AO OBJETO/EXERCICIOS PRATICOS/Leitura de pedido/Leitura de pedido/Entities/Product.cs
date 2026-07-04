@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace Leitura_de_pedido.Entities
 {
     internal class Product
     {
-        public string Name { get; set; }
+        public string NameProduct { get; set; }
         public double Price { get; set; }
 
 
@@ -15,10 +16,17 @@ namespace Leitura_de_pedido.Entities
 
         }
 
-        public Product(string name, double price)
+        public Product(string nameProduct, double price)
         {
-            Name = name;
+            NameProduct = nameProduct;
             Price = price;
+        }
+
+        public override string ToString()
+        {
+            return NameProduct
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture);
         }
 
     }
