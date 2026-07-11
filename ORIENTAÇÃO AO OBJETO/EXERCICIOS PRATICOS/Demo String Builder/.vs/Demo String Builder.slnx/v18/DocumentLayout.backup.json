@@ -57,7 +57,11 @@
               "RelativeDocumentMoniker": "Demo String Builder\\Program.cs",
               "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Demo String Builder\\Demo String Builder\\Program.cs",
               "RelativeToolTip": "Demo String Builder\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+>>>>>>> 031d2e8f579cc4b252fa352e328954c7b4325ed3
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T13:01:10.349Z",
               "EditorCaption": ""

@@ -28,7 +28,11 @@
               "RelativeDocumentMoniker": "Exercicio Contrato\\Entities\\Worker.cs",
               "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Exercicio Contrato\\Exercicio Contrato\\Entities\\Worker.cs",
               "RelativeToolTip": "Exercicio Contrato\\Entities\\Worker.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABUAAAAAAAAAAAAmwCQAAAAnAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwB0AAAA4AAAAAAAAAA==",
+>>>>>>> 031d2e8f579cc4b252fa352e328954c7b4325ed3
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T12:35:20.117Z",
               "EditorCaption": ""
@@ -41,9 +45,16 @@
               "RelativeDocumentMoniker": "Exercicio Contrato\\Program.cs",
               "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Exercicio Contrato\\Exercicio Contrato\\Program.cs",
               "RelativeToolTip": "Exercicio Contrato\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-26T11:47:50.673Z"
+=======
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T11:47:50.673Z",
+              "EditorCaption": ""
+>>>>>>> 031d2e8f579cc4b252fa352e328954c7b4325ed3
             }
           ]
         }

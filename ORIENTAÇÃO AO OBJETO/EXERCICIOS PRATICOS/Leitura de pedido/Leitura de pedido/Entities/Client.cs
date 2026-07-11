@@ -17,5 +17,17 @@
             Email = email;
             BirthDate = birthDate;
         }
+<<<<<<< HEAD
+=======
+
+        public override string ToString()
+        {
+            return Name
+                + " ("
+                + BirthDate.ToString("dd/MM/yyyy")
+                + ") - "
+                + Email;
+        }
+>>>>>>> 031d2e8f579cc4b252fa352e328954c7b4325ed3
     }
 }

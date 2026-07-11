@@ -46,8 +46,12 @@
               "RelativeToolTip": "Demo String Builder\\Entities\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2026-07-02T13:01:47.587Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2026-07-02T13:01:47.587Z"
+>>>>>>> 031d2e8f579cc4b252fa352e328954c7b4325ed3
             },
             {
               "$type": "Document",
