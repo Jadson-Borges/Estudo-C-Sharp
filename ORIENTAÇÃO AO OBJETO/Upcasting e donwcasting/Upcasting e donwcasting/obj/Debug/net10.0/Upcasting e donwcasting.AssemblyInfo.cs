@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Upcasting e donwcasting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4dd6d660500f3c68f2b24440c25e6074cd8b09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+329b45693bb818dde080686b1bf4c4ac2ff58c66")]
 [assembly: System.Reflection.AssemblyProductAttribute("Upcasting e donwcasting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Upcasting e donwcasting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

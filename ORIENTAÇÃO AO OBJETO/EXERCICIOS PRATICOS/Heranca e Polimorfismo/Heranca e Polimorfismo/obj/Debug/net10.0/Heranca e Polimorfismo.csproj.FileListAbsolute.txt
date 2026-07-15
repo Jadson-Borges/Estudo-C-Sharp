@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net10.0\Heranca e Polimorfismo.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net10.0\Heranca e Polimorfismo.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net10.0\Heranca e Polimorfismo.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net10.0\Heranca e Polimorfismo.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net10.0\Heranca e Polimorfismo.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\Heranca e Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\Heranca e Polimorfismo.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\Heranca e Polimorfismo.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\Heranca e Polimorfismo.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\Heranca e Polimorfismo.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\Heranca e Polimorfismo.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\refint\Heranca e Polimorfismo.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\Heranca e Polimorfismo.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\Heranca e Polimorfismo.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\EXERCICIOS PRATICOS\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net10.0\ref\Heranca e Polimorfismo.dll

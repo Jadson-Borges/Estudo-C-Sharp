@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB726F4F-1904-B8AB-F1AA-7B26401EC92C}|Heranca e Polimorfismo\\Heranca e Polimorfismo.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\heranca e polimorfismo\\heranca e polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB726F4F-1904-B8AB-F1AA-7B26401EC92C}|Heranca e Polimorfismo\\Heranca e Polimorfismo.csproj|solutionrelative:heranca e polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB726F4F-1904-B8AB-F1AA-7B26401EC92C}|Heranca e Polimorfismo\\Heranca e Polimorfismo.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\heranca e polimorfismo\\heranca e polimorfismo\\entities\\useproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB726F4F-1904-B8AB-F1AA-7B26401EC92C}|Heranca e Polimorfismo\\Heranca e Polimorfismo.csproj|solutionrelative:heranca e polimorfismo\\entities\\useproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB726F4F-1904-B8AB-F1AA-7B26401EC92C}|Heranca e Polimorfismo\\Heranca e Polimorfismo.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\heranca e polimorfismo\\heranca e polimorfismo\\entities\\importeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB726F4F-1904-B8AB-F1AA-7B26401EC92C}|Heranca e Polimorfismo\\Heranca e Polimorfismo.csproj|solutionrelative:heranca e polimorfismo\\entities\\importeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB726F4F-1904-B8AB-F1AA-7B26401EC92C}|Heranca e Polimorfismo\\Heranca e Polimorfismo.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\heranca e polimorfismo\\heranca e polimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB726F4F-1904-B8AB-F1AA-7B26401EC92C}|Heranca e Polimorfismo\\Heranca e Polimorfismo.csproj|solutionrelative:heranca e polimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UseProduct.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\Heranca e Polimorfismo\\Entities\\UseProduct.cs",
+              "RelativeDocumentMoniker": "Heranca e Polimorfismo\\Entities\\UseProduct.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\Heranca e Polimorfismo\\Entities\\UseProduct.cs",
+              "RelativeToolTip": "Heranca e Polimorfismo\\Entities\\UseProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:53:06.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImporteProduct.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\Heranca e Polimorfismo\\Entities\\ImporteProduct.cs",
+              "RelativeDocumentMoniker": "Heranca e Polimorfismo\\Entities\\ImporteProduct.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\Heranca e Polimorfismo\\Entities\\ImporteProduct.cs",
+              "RelativeToolTip": "Heranca e Polimorfismo\\Entities\\ImporteProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:52:55.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\Heranca e Polimorfismo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Heranca e Polimorfismo\\Entities\\Product.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\Heranca e Polimorfismo\\Entities\\Product.cs",
+              "RelativeToolTip": "Heranca e Polimorfismo\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:45:19.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\Heranca e Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca e Polimorfismo\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Heranca e Polimorfismo\\Heranca e Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Heranca e Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:35:03.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

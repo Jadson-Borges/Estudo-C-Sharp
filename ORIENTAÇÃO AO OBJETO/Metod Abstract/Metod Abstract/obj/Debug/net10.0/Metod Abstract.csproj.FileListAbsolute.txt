@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\Metod Abstract.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\Metod Abstract.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\Metod Abstract.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\Metod Abstract.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\Metod Abstract.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\bin\Debug\net10.0\Metod Abstract.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\bin\Debug\net10.0\Metod Abstract.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\bin\Debug\net10.0\Metod Abstract.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\bin\Debug\net10.0\Metod Abstract.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\bin\Debug\net10.0\Metod Abstract.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\Metod Abstract.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\refint\Metod Abstract.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\Metod Abstract.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\Metod Abstract.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Metod Abstract\Metod Abstract\obj\Debug\net10.0\ref\Metod Abstract.dll
