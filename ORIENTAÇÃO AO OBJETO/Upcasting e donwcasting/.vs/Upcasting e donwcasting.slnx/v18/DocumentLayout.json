@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\",
+  "WorkspaceRootPath": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4208CEC0-1163-4583-AAAD-217DE11CFC12}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\upcasting e donwcasting\\upcasting e donwcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4208CEC0-1163-4583-AAAD-217DE11CFC12}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|solutionrelative:upcasting e donwcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FF5DF51-3DD5-438D-67C1-870D9D018A0B}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|d:\\estudo c#\\estudo-c-sharp\\orienta\u00E7\u00E3o ao objeto\\upcasting e donwcasting\\upcasting e donwcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF5DF51-3DD5-438D-67C1-870D9D018A0B}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|solutionrelative:upcasting e donwcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4208CEC0-1163-4583-AAAD-217DE11CFC12}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\upcasting e donwcasting\\upcasting e donwcasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4208CEC0-1163-4583-AAAD-217DE11CFC12}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|solutionrelative:upcasting e donwcasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FF5DF51-3DD5-438D-67C1-870D9D018A0B}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|d:\\estudo c#\\estudo-c-sharp\\orienta\u00E7\u00E3o ao objeto\\upcasting e donwcasting\\upcasting e donwcasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF5DF51-3DD5-438D-67C1-870D9D018A0B}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|solutionrelative:upcasting e donwcasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4208CEC0-1163-4583-AAAD-217DE11CFC12}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\upcasting e donwcasting\\upcasting e donwcasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4208CEC0-1163-4583-AAAD-217DE11CFC12}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|solutionrelative:upcasting e donwcasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FF5DF51-3DD5-438D-67C1-870D9D018A0B}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|d:\\estudo c#\\estudo-c-sharp\\orienta\u00E7\u00E3o ao objeto\\upcasting e donwcasting\\upcasting e donwcasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF5DF51-3DD5-438D-67C1-870D9D018A0B}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|solutionrelative:upcasting e donwcasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4208CEC0-1163-4583-AAAD-217DE11CFC12}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\upcasting e donwcasting\\upcasting e donwcasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4208CEC0-1163-4583-AAAD-217DE11CFC12}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|solutionrelative:upcasting e donwcasting\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FF5DF51-3DD5-438D-67C1-870D9D018A0B}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|d:\\estudo c#\\estudo-c-sharp\\orienta\u00E7\u00E3o ao objeto\\upcasting e donwcasting\\upcasting e donwcasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF5DF51-3DD5-438D-67C1-870D9D018A0B}|Upcasting e donwcasting\\Upcasting e donwcasting.csproj|solutionrelative:upcasting e donwcasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,37 +32,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SavingsAccount.cs",
-              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\SavingsAccount.cs",
               "RelativeDocumentMoniker": "Upcasting e donwcasting\\Entities\\SavingsAccount.cs",
-              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\SavingsAccount.cs",
+              "ToolTip": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\SavingsAccount.cs",
               "RelativeToolTip": "Upcasting e donwcasting\\Entities\\SavingsAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-10T17:38:03.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BusinessAccount.cs",
-              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\BusinessAccount.cs",
+              "DocumentMoniker": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\BusinessAccount.cs",
               "RelativeDocumentMoniker": "Upcasting e donwcasting\\Entities\\BusinessAccount.cs",
-              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\BusinessAccount.cs",
+              "ToolTip": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\BusinessAccount.cs",
               "RelativeToolTip": "Upcasting e donwcasting\\Entities\\BusinessAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-10T17:28:34.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Account.cs",
-              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\Account.cs",
+              "DocumentMoniker": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "Upcasting e donwcasting\\Entities\\Account.cs",
-              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\Account.cs",
+              "ToolTip": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Entities\\Account.cs",
               "RelativeToolTip": "Upcasting e donwcasting\\Entities\\Account.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-10T17:28:18.497Z",
               "EditorCaption": ""
@@ -71,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Program.cs",
+              "DocumentMoniker": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Program.cs",
               "RelativeDocumentMoniker": "Upcasting e donwcasting\\Program.cs",
-              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Program.cs",
+              "ToolTip": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\Upcasting e donwcasting\\Upcasting e donwcasting\\Program.cs",
               "RelativeToolTip": "Upcasting e donwcasting\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-10T17:27:09.032Z",
               "EditorCaption": ""
