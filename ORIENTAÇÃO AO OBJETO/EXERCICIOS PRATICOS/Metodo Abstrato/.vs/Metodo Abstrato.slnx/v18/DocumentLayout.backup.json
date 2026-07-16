@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906DBA0A-4CE6-40AC-98D3-019C62663F11}|Metodo Abstrato\\Metodo Abstrato.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\metodo abstrato\\metodo abstrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906DBA0A-4CE6-40AC-98D3-019C62663F11}|Metodo Abstrato\\Metodo Abstrato.csproj|solutionrelative:metodo abstrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906DBA0A-4CE6-40AC-98D3-019C62663F11}|Metodo Abstrato\\Metodo Abstrato.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\metodo abstrato\\metodo abstrato\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906DBA0A-4CE6-40AC-98D3-019C62663F11}|Metodo Abstrato\\Metodo Abstrato.csproj|solutionrelative:metodo abstrato\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906DBA0A-4CE6-40AC-98D3-019C62663F11}|Metodo Abstrato\\Metodo Abstrato.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\metodo abstrato\\metodo abstrato\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906DBA0A-4CE6-40AC-98D3-019C62663F11}|Metodo Abstrato\\Metodo Abstrato.csproj|solutionrelative:metodo abstrato\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906DBA0A-4CE6-40AC-98D3-019C62663F11}|Metodo Abstrato\\Metodo Abstrato.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\metodo abstrato\\metodo abstrato\\entities\\legalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906DBA0A-4CE6-40AC-98D3-019C62663F11}|Metodo Abstrato\\Metodo Abstrato.csproj|solutionrelative:metodo abstrato\\entities\\legalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegalEntity.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\Metodo Abstrato\\Entities\\LegalEntity.cs",
+              "RelativeDocumentMoniker": "Metodo Abstrato\\Entities\\LegalEntity.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\Metodo Abstrato\\Entities\\LegalEntity.cs",
+              "RelativeToolTip": "Metodo Abstrato\\Entities\\LegalEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T17:25:41.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\Metodo Abstrato\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "Metodo Abstrato\\Entities\\Individual.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\Metodo Abstrato\\Entities\\Individual.cs",
+              "RelativeToolTip": "Metodo Abstrato\\Entities\\Individual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T17:00:48.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taxpayer.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\Metodo Abstrato\\Entities\\Taxpayer.cs",
+              "RelativeDocumentMoniker": "Metodo Abstrato\\Entities\\Taxpayer.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\Metodo Abstrato\\Entities\\Taxpayer.cs",
+              "RelativeToolTip": "Metodo Abstrato\\Entities\\Taxpayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:52:33.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\Metodo Abstrato\\Program.cs",
+              "RelativeDocumentMoniker": "Metodo Abstrato\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\Metodo Abstrato\\Metodo Abstrato\\Program.cs",
+              "RelativeToolTip": "Metodo Abstrato\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:51:33.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
