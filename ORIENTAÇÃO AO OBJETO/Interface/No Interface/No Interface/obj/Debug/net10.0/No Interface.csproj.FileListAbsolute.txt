@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\bin\Debug\net10.0\No Interface.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\bin\Debug\net10.0\No Interface.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\bin\Debug\net10.0\No Interface.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\bin\Debug\net10.0\No Interface.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\bin\Debug\net10.0\No Interface.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\No Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\No Interface.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\No Interface.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\No Interface.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\No Interface.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\No Interface.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\refint\No Interface.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\No Interface.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\No Interface.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface\No Interface\No Interface\obj\Debug\net10.0\ref\No Interface.dll
