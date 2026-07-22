@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Herdar vs Cumprir Contrato/1.0.0": {
+        "runtime": {
+          "Herdar vs Cumprir Contrato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Herdar vs Cumprir Contrato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

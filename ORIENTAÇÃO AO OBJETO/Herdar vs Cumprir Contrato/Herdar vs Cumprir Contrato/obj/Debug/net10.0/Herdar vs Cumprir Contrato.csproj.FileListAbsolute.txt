@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\Herdar vs Cumprir Contrato.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\Herdar vs Cumprir Contrato.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\Herdar vs Cumprir Contrato.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\Herdar vs Cumprir Contrato.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\Herdar vs Cumprir Contrato.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\bin\Debug\net10.0\Herdar vs Cumprir Contrato.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\bin\Debug\net10.0\Herdar vs Cumprir Contrato.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\bin\Debug\net10.0\Herdar vs Cumprir Contrato.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\bin\Debug\net10.0\Herdar vs Cumprir Contrato.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\bin\Debug\net10.0\Herdar vs Cumprir Contrato.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\Herdar vs Cumprir Contrato.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\refint\Herdar vs Cumprir Contrato.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\Herdar vs Cumprir Contrato.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\Herdar vs Cumprir Contrato.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Herdar vs Cumprir Contrato\Herdar vs Cumprir Contrato\obj\Debug\net10.0\ref\Herdar vs Cumprir Contrato.dll
