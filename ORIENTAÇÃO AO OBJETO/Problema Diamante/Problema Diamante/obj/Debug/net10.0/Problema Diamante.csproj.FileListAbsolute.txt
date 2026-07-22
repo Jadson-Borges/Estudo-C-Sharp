@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\bin\Debug\net10.0\Problema Diamante.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\bin\Debug\net10.0\Problema Diamante.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\bin\Debug\net10.0\Problema Diamante.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\bin\Debug\net10.0\Problema Diamante.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\bin\Debug\net10.0\Problema Diamante.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\Problema Diamante.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\Problema Diamante.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\Problema Diamante.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\Problema Diamante.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\Problema Diamante.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\Problema Diamante.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\refint\Problema Diamante.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\Problema Diamante.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\Problema Diamante.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Problema Diamante\Problema Diamante\obj\Debug\net10.0\ref\Problema Diamante.dll

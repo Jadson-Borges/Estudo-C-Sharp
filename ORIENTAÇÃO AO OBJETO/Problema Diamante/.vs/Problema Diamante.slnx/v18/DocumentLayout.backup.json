@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\problema diamante\\problema diamante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|solutionrelative:problema diamante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\problema diamante\\problema diamante\\devices\\combodispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|solutionrelative:problema diamante\\devices\\combodispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\problema diamante\\problema diamante\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|solutionrelative:problema diamante\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\problema diamante\\problema diamante\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|solutionrelative:problema diamante\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\problema diamante\\problema diamante\\devices\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|solutionrelative:problema diamante\\devices\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\problema diamante\\problema diamante\\devices\\iimpressora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|solutionrelative:problema diamante\\devices\\iimpressora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\problema diamante\\problema diamante\\devices\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2B74-F32B-485F-9DF1-A8E07E655A70}|Problema Diamante\\Problema Diamante.csproj|solutionrelative:problema diamante\\devices\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboDispositivo.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\ComboDispositivo.cs",
+              "RelativeDocumentMoniker": "Problema Diamante\\Devices\\ComboDispositivo.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\ComboDispositivo.cs",
+              "RelativeToolTip": "Problema Diamante\\Devices\\ComboDispositivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T21:04:04.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\Scanner.cs",
+              "RelativeDocumentMoniker": "Problema Diamante\\Devices\\Scanner.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\Scanner.cs",
+              "RelativeToolTip": "Problema Diamante\\Devices\\Scanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T21:01:48.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Imprimir.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\Imprimir.cs",
+              "RelativeDocumentMoniker": "Problema Diamante\\Devices\\Imprimir.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\Imprimir.cs",
+              "RelativeToolTip": "Problema Diamante\\Devices\\Imprimir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:54:33.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IImpressora.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\IImpressora.cs",
+              "RelativeDocumentMoniker": "Problema Diamante\\Devices\\IImpressora.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\IImpressora.cs",
+              "RelativeToolTip": "Problema Diamante\\Devices\\IImpressora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:52:46.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\IScanner.cs",
+              "RelativeDocumentMoniker": "Problema Diamante\\Devices\\IScanner.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\IScanner.cs",
+              "RelativeToolTip": "Problema Diamante\\Devices\\IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:51:30.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "Problema Diamante\\Devices\\Dispositivo.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Devices\\Dispositivo.cs",
+              "RelativeToolTip": "Problema Diamante\\Devices\\Dispositivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:49:53.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Program.cs",
+              "RelativeDocumentMoniker": "Problema Diamante\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Problema Diamante\\Problema Diamante\\Program.cs",
+              "RelativeToolTip": "Problema Diamante\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:43:42.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
