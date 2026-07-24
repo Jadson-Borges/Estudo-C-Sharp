@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Restricoes Genericas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3055609D-6488-470A-875D-C43313A337D5}|Restricoes Genericas\\Restricoes Genericas.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\generics\\restricoes genericas\\restricoes genericas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3055609D-6488-470A-875D-C43313A337D5}|Restricoes Genericas\\Restricoes Genericas.csproj|solutionrelative:restricoes genericas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3055609D-6488-470A-875D-C43313A337D5}|Restricoes Genericas\\Restricoes Genericas.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\generics\\restricoes genericas\\restricoes genericas\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3055609D-6488-470A-875D-C43313A337D5}|Restricoes Genericas\\Restricoes Genericas.csproj|solutionrelative:restricoes genericas\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3055609D-6488-470A-875D-C43313A337D5}|Restricoes Genericas\\Restricoes Genericas.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\generics\\restricoes genericas\\restricoes genericas\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3055609D-6488-470A-875D-C43313A337D5}|Restricoes Genericas\\Restricoes Genericas.csproj|solutionrelative:restricoes genericas\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Restricoes Genericas\\Restricoes Genericas\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Restricoes Genericas\\Services\\CalculationService.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Restricoes Genericas\\Restricoes Genericas\\Services\\CalculationService.cs",
+              "RelativeToolTip": "Restricoes Genericas\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:47:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Restricoes Genericas\\Restricoes Genericas\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Restricoes Genericas\\Entities\\Product.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Restricoes Genericas\\Restricoes Genericas\\Entities\\Product.cs*",
+              "RelativeToolTip": "Restricoes Genericas\\Entities\\Product.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:46:46.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Restricoes Genericas\\Restricoes Genericas\\Program.cs",
+              "RelativeDocumentMoniker": "Restricoes Genericas\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Restricoes Genericas\\Restricoes Genericas\\Program.cs",
+              "RelativeToolTip": "Restricoes Genericas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:42:29.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

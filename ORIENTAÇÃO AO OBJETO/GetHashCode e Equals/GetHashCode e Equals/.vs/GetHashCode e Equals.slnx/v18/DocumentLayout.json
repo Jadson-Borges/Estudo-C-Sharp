@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\GetHashCode e Equals\\GetHashCode e Equals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4467EF-21B6-4507-A0F7-6FE5612886EF}|GetHashCode e Equals\\GetHashCode e Equals.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\gethashcode e equals\\gethashcode e equals\\gethashcode e equals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4467EF-21B6-4507-A0F7-6FE5612886EF}|GetHashCode e Equals\\GetHashCode e Equals.csproj|solutionrelative:gethashcode e equals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4467EF-21B6-4507-A0F7-6FE5612886EF}|GetHashCode e Equals\\GetHashCode e Equals.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\gethashcode e equals\\gethashcode e equals\\gethashcode e equals\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4467EF-21B6-4507-A0F7-6FE5612886EF}|GetHashCode e Equals\\GetHashCode e Equals.csproj|solutionrelative:gethashcode e equals\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\GetHashCode e Equals\\GetHashCode e Equals\\GetHashCode e Equals\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "GetHashCode e Equals\\Entities\\Client.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\GetHashCode e Equals\\GetHashCode e Equals\\GetHashCode e Equals\\Entities\\Client.cs",
+              "RelativeToolTip": "GetHashCode e Equals\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T20:44:13.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\GetHashCode e Equals\\GetHashCode e Equals\\GetHashCode e Equals\\Program.cs",
+              "RelativeDocumentMoniker": "GetHashCode e Equals\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\GetHashCode e Equals\\GetHashCode e Equals\\GetHashCode e Equals\\Program.cs",
+              "RelativeToolTip": "GetHashCode e Equals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T20:42:50.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

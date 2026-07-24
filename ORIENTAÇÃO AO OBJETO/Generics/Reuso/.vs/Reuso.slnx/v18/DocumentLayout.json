@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Reuso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C4C0-BECD-5A20-A4FF-FA4E0D6F9E68}|Reuso\\Reuso.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\generics\\reuso\\reuso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C4C0-BECD-5A20-A4FF-FA4E0D6F9E68}|Reuso\\Reuso.csproj|solutionrelative:reuso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21C4C0-BECD-5A20-A4FF-FA4E0D6F9E68}|Reuso\\Reuso.csproj|e:\\estudo c#\\orienta\u00E7\u00E3o ao objeto\\generics\\reuso\\reuso\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21C4C0-BECD-5A20-A4FF-FA4E0D6F9E68}|Reuso\\Reuso.csproj|solutionrelative:reuso\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Reuso\\Reuso\\PrintService.cs",
+              "RelativeDocumentMoniker": "Reuso\\PrintService.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Reuso\\Reuso\\PrintService.cs",
+              "RelativeToolTip": "Reuso\\PrintService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T12:03:13.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Reuso\\Reuso\\Program.cs",
+              "RelativeDocumentMoniker": "Reuso\\Program.cs",
+              "ToolTip": "E:\\ESTUDO C#\\ORIENTA\u00C7\u00C3O AO OBJETO\\Generics\\Reuso\\Reuso\\Program.cs",
+              "RelativeToolTip": "Reuso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T12:01:46.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

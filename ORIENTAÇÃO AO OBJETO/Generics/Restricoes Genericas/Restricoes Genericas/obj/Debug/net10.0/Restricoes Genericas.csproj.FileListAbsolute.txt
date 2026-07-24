@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\bin\Debug\net10.0\Restricoes Genericas.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\bin\Debug\net10.0\Restricoes Genericas.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\bin\Debug\net10.0\Restricoes Genericas.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\bin\Debug\net10.0\Restricoes Genericas.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\bin\Debug\net10.0\Restricoes Genericas.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\Restricoes Genericas.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\Restricoes Genericas.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\Restricoes Genericas.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\Restricoes Genericas.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\Restricoes Genericas.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\Restricoes Genericas.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\refint\Restricoes Genericas.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\Restricoes Genericas.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\Restricoes Genericas.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Restricoes Genericas\Restricoes Genericas\obj\Debug\net10.0\ref\Restricoes Genericas.dll

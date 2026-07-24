@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net10.0\GetHashCode e Equals.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net10.0\GetHashCode e Equals.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net10.0\GetHashCode e Equals.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net10.0\GetHashCode e Equals.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\net10.0\GetHashCode e Equals.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\GetHashCode e Equals.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\GetHashCode e Equals.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\GetHashCode e Equals.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\GetHashCode e Equals.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\GetHashCode e Equals.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\GetHashCode e Equals.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\refint\GetHashCode e Equals.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\GetHashCode e Equals.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\GetHashCode e Equals.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\GetHashCode e Equals\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\net10.0\ref\GetHashCode e Equals.dll

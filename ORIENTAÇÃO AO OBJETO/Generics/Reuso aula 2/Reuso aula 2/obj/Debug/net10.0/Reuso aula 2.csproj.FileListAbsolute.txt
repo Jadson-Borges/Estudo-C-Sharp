@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\bin\Debug\net10.0\Reuso aula 2.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\bin\Debug\net10.0\Reuso aula 2.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\bin\Debug\net10.0\Reuso aula 2.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\bin\Debug\net10.0\Reuso aula 2.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\bin\Debug\net10.0\Reuso aula 2.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\Reuso aula 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\Reuso aula 2.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\Reuso aula 2.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\Reuso aula 2.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\Reuso aula 2.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\Reuso aula 2.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\refint\Reuso aula 2.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\Reuso aula 2.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\Reuso aula 2.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Generics\Reuso aula 2\Reuso aula 2\obj\Debug\net10.0\ref\Reuso aula 2.dll

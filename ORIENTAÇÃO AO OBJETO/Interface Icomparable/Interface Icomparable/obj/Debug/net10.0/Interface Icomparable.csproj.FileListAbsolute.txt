@@ -1,0 +1,15 @@
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\bin\Debug\net10.0\Interface Icomparable.exe
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\bin\Debug\net10.0\Interface Icomparable.deps.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\bin\Debug\net10.0\Interface Icomparable.runtimeconfig.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\bin\Debug\net10.0\Interface Icomparable.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\bin\Debug\net10.0\Interface Icomparable.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\Interface Icomparable.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\Interface Icomparable.AssemblyInfoInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\Interface Icomparable.AssemblyInfo.cs
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\Interface Icomparable.csproj.CoreCompileInputs.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\Interface Icomparable.sourcelink.json
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\Interface Icomparable.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\refint\Interface Icomparable.dll
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\Interface Icomparable.pdb
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\Interface Icomparable.genruntimeconfig.cache
+E:\ESTUDO C#\ORIENTAÇÃO AO OBJETO\Interface Icomparable\Interface Icomparable\obj\Debug\net10.0\ref\Interface Icomparable.dll
