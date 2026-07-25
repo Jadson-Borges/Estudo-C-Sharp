@@ -1,0 +1,15 @@
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\Stream Writer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\Stream Writer.AssemblyInfoInputs.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\Stream Writer.AssemblyInfo.cs
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\Stream Writer.csproj.CoreCompileInputs.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\Stream Writer.sourcelink.json
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\bin\Debug\net10.0\Stream Writer.exe
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\bin\Debug\net10.0\Stream Writer.deps.json
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\bin\Debug\net10.0\Stream Writer.runtimeconfig.json
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\bin\Debug\net10.0\Stream Writer.dll
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\bin\Debug\net10.0\Stream Writer.pdb
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\Stream Writer.dll
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\refint\Stream Writer.dll
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\Stream Writer.pdb
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\Stream Writer.genruntimeconfig.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\Stream Writer\Stream Writer\obj\Debug\net10.0\ref\Stream Writer.dll

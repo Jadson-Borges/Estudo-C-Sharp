@@ -1,0 +1,15 @@
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\net10.0\FileStream e StreamReader.exe
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\net10.0\FileStream e StreamReader.deps.json
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\net10.0\FileStream e StreamReader.runtimeconfig.json
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\net10.0\FileStream e StreamReader.dll
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\net10.0\FileStream e StreamReader.pdb
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\FileStream e StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\FileStream e StreamReader.AssemblyInfoInputs.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\FileStream e StreamReader.AssemblyInfo.cs
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\FileStream e StreamReader.csproj.CoreCompileInputs.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\FileStream e StreamReader.sourcelink.json
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\FileStream e StreamReader.dll
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\refint\FileStream e StreamReader.dll
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\FileStream e StreamReader.pdb
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\FileStream e StreamReader.genruntimeconfig.cache
+D:\Estudo C#\Estudo-C-Sharp\ORIENTAÇÃO AO OBJETO\File, FileInfo e IOException\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\net10.0\ref\FileStream e StreamReader.dll

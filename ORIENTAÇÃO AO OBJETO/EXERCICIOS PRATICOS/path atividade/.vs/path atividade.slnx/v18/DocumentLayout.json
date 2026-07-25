@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\path atividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C653B-2F1A-4148-AE8E-E2FC4FA3E7EB}|path atividade\\path atividade.csproj|d:\\estudo c#\\estudo-c-sharp\\orienta\u00E7\u00E3o ao objeto\\exercicios praticos\\path atividade\\path atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8C653B-2F1A-4148-AE8E-E2FC4FA3E7EB}|path atividade\\path atividade.csproj|solutionrelative:path atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\path atividade\\path atividade\\Program.cs",
+              "RelativeDocumentMoniker": "path atividade\\Program.cs",
+              "ToolTip": "D:\\Estudo C#\\Estudo-C-Sharp\\ORIENTA\u00C7\u00C3O AO OBJETO\\EXERCICIOS PRATICOS\\path atividade\\path atividade\\Program.cs",
+              "RelativeToolTip": "path atividade\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T14:58:35.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
